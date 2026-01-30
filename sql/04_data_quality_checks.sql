@@ -21,3 +21,5 @@ SELECT
 FROM vital_signs
 WHERE systolic_bp IS NULL;
 
+-- Output shape:
+-- Diagnostic result sets only (aggregate counts and flagged records)
