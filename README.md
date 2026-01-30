@@ -3,7 +3,7 @@
 
 ## Context
 This repository reflects analytical methods used to support clinical
-research conducted during **2020–2021 and 2023–2024** at an academic
+research conducted during **2020–2021** at an academic
 medical center. The author was **acknowledged for analytical assistance**
 in a related JAMA-affiliated publication.
 
